@@ -3,3 +3,5 @@ woshicheche
 cheche
 
 cheche420
+git remote add origin https://github.com/cheche1993/0702.git
+git push -u origin master
